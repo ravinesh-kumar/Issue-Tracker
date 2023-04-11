@@ -1,0 +1,49 @@
+.main{
+    justify-content: center;
+    display: flex;
+    height: auto;
+    background:black;
+}
+.contain{
+    background:rgba(128, 128, 128, 0.384);
+    width: 650px;
+    /* height: auto; */
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color:white ;
+    padding: 2em;
+    border-radius: 12px;
+}
+h3{
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    text-align: left;
+}
+.boxes{
+    margin: 0.2em 0;
+}
+.form-label{
+    color: rgba(255,255,255,0.781);
+}
+.contain .boxes div{
+    position: relative;
+    width: 100%;
+    height: 40px;
+}
+.btns{
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    margin: 0.5em 0;
+    cursor: pointer;
+    color: black;
+    background: linear-gradient(to right,#ff416c,#ff4b2b );
+
+}
+
+
+.subheading{
+    text-decoration: underline;
+}
