@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const url = "mongodb+srv://Ravinesh:Gaharwal123@cluster0.2klhwid.mongodb.net/Issue_tracker?retryWrites=true&w=majority";
+const url = "Add Your MongoDB link here";
 
 //premise
 
